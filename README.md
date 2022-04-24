@@ -65,13 +65,6 @@ vagrant up --provision
 ```
 vagrant ssh ansible
 ```
-
-Résultat:
-
-```
-
-```
-
 Pour faciliter le process de connexion avec *client1* et *client2*, je vais établir une communication par échange des clés. Entre le serveur *ansible* et les autres machines.
 
 ### Rappel
